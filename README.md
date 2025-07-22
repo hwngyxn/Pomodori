@@ -1,2 +1,0 @@
-# Pomodori
-Pomodoro App project
