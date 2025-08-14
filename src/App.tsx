@@ -1,9 +1,9 @@
 import { useState } from "react";
-import { Card } from "../components/ui/card";
-import { ProgressRing } from "../components/ui/progress-ring";
-import { useTimer } from "../hooks/useTimer";
-import { text } from "../styles/text";
-import { layout } from "../styles/layout";
+import { Card } from "./components/ui/card";
+import { ProgressRing } from "./components/ui/progress-ring";
+import { useTimer } from "./hooks/useTimer";
+import { text } from "./styles/text";
+import { layout } from "./styles/layout";
 
 export const App = (): JSX.Element => {
   const {
